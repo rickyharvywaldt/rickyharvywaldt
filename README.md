@@ -1,4 +1,4 @@
-Hi, I am Ricky 👋 Currently learning the essentials of Data Analysis, like Spreadsheets, SQL, programming, and Visualisation Tools. I recently finished the Google Data Analysis Professional Certificate Course on Coursera ✨, and I am now looking for a junior position level within this field.
+Hello, World! I am Ricky 👋, and I currently work as project manager for PT PMA MadeIndonesia Outsourcing. Our office is located in Yogyakarta, Indonesia where a team of designers (UI/UX, graphic, and video editors), web developers, QA, and data entry specialists work on projects for IT Companies and end customers from all over the world. By no means do I identify myself as a web developer, but I find it quite satisfying doing little web development projects ✨. So there you have it, my justification for being on GitHub. 
 
 
 <!---
