@@ -1,4 +1,4 @@
-Hello, World! I am Ricky 👋, and I currently work as project manager for PT PMA MadeIndonesia Outsourcing. Our office is located in Yogyakarta, Indonesia where a team of designers (UI/UX, graphic, and video editors), web developers, QA, and data entry specialists work on projects for IT Companies and end customers from all over the world. By no means do I identify myself as a web developer, but I really enjoy doing little web development projects ✨. So there you have it, my justification for being on GitHub. 
+Hello, World! My name's Ricky 👋, and I'm currently a DevOps Trainee at Devoteam NL. We have multiple offices in the Netherlands, but you can find me at our Amsterdam office.  
 
 
 <!---
