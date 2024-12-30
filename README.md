@@ -1,4 +1,4 @@
-Hello, World! My name's Ricky 👋, and I'm currently a DevOps Trainee at Devoteam NL. We have multiple offices in the Netherlands, but you can find me mostly in our Amsterdam office.  
+Hello, World! My name's Ricky 👋, and I'm a DevOps Consultant at Devoteam NL. We have multiple offices in the Netherlands, but you can find me mostly in our Amsterdam office.  
 
 
 <!---
